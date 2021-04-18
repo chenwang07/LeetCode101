@@ -41,3 +41,11 @@ vector<int> partitionLabels(string S) {
     }
     return res;
  }
+
+
+/*
+
+string s = "ababcbacadefegdehijhklij";
+vector<int> res = partitionLabels(s);
+
+*/

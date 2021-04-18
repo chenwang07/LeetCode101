@@ -11,6 +11,8 @@ bool canPlaceFlowers(vector<int>& flowerbed, int n);
 int findMinArrowShots(vector<vector<int>>& points);
 // Leetcode 763
 vector<int> partitionLabels(string S);
+// Leetcode 122
+int maxProfit(vector<int>& prices);
 
 
 
