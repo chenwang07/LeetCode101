@@ -1,5 +1,6 @@
 #pragma once
 #include <vector>
+#include <string>
 
 using namespace std;
 
@@ -13,6 +14,8 @@ int findMinArrowShots(vector<vector<int>>& points);
 vector<int> partitionLabels(string S);
 // Leetcode 122
 int maxProfit(vector<int>& prices);
+// Leetcode 76
+string minWindow(string s, string t);
 
 
 

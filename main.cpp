@@ -1,10 +1,14 @@
 #include <iostream>
 #include "algorithmDeclaration.h"
+#include <string>
 
 using namespace std;
 
+
 int main()
 {
-	string s = "ababcbacadefegdehijhklij";
-	vector<int> res = partitionLabels(s);
+	string s = "ADOBECODEBANC";
+	string t = "ABC";
+	string res = minWindow(s, t);
+	return 0;
 }
