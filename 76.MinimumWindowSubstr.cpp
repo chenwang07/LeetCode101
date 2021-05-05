@@ -1,9 +1,7 @@
-
 #include <vector>
 #include <string>
 #include <unordered_map>
 #include <iostream>
-
 
 
 std::string minWindow(std::string s, std::string t) {
