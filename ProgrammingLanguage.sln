@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "algoCPlusPlus", "Code\AlgoCPlusPlus\LeetCode101.vcxproj", "{F27130CA-25BE-4DDE-A61D-878AE1DC0066}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "algoPython", "Code\AlgoPython\AlgoPython.pyproj", "{BFD9C124-CA5B-4B81-B1A0-218D1FF34D39}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonUsage", "Code\PythonUsage\PythonUsage.pyproj", "{51C42413-2B06-4F82-986F-A7B9B2F78550}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F27130CA-25BE-4DDE-A61D-878AE1DC0066}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{F27130CA-25BE-4DDE-A61D-878AE1DC0066}.Debug|x64.ActiveCfg = Debug|x64
+		{F27130CA-25BE-4DDE-A61D-878AE1DC0066}.Debug|x64.Build.0 = Debug|x64
+		{F27130CA-25BE-4DDE-A61D-878AE1DC0066}.Debug|x86.ActiveCfg = Debug|Win32
+		{F27130CA-25BE-4DDE-A61D-878AE1DC0066}.Debug|x86.Build.0 = Debug|Win32
+		{F27130CA-25BE-4DDE-A61D-878AE1DC0066}.Release|Any CPU.ActiveCfg = Release|Win32
+		{F27130CA-25BE-4DDE-A61D-878AE1DC0066}.Release|x64.ActiveCfg = Release|x64
+		{F27130CA-25BE-4DDE-A61D-878AE1DC0066}.Release|x64.Build.0 = Release|x64
+		{F27130CA-25BE-4DDE-A61D-878AE1DC0066}.Release|x86.ActiveCfg = Release|Win32
+		{F27130CA-25BE-4DDE-A61D-878AE1DC0066}.Release|x86.Build.0 = Release|Win32
+		{BFD9C124-CA5B-4B81-B1A0-218D1FF34D39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFD9C124-CA5B-4B81-B1A0-218D1FF34D39}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{BFD9C124-CA5B-4B81-B1A0-218D1FF34D39}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BFD9C124-CA5B-4B81-B1A0-218D1FF34D39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFD9C124-CA5B-4B81-B1A0-218D1FF34D39}.Release|x64.ActiveCfg = Release|Any CPU
+		{BFD9C124-CA5B-4B81-B1A0-218D1FF34D39}.Release|x86.ActiveCfg = Release|Any CPU
+		{51C42413-2B06-4F82-986F-A7B9B2F78550}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51C42413-2B06-4F82-986F-A7B9B2F78550}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{51C42413-2B06-4F82-986F-A7B9B2F78550}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{51C42413-2B06-4F82-986F-A7B9B2F78550}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51C42413-2B06-4F82-986F-A7B9B2F78550}.Release|x64.ActiveCfg = Release|Any CPU
+		{51C42413-2B06-4F82-986F-A7B9B2F78550}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94F239B6-2A42-489F-A112-D0913C8A2D19}
+	EndGlobalSection
+EndGlobal
