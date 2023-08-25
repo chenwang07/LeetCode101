@@ -15,37 +15,37 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="435.NonOverlappingIntervals.cpp">
+    <ClCompile Include="435.non_overlapping_intervals.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="605.CanPlaceFlowers.cpp">
+    <ClCompile Include="605.can_place_flowers.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="452.findMinArrowShots.cpp">
+    <ClCompile Include="452.find_min_arrowshots.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="763.partitionLabels.cpp">
+    <ClCompile Include="763.partition_labels.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="122.maxProfit.cpp">
+    <ClCompile Include="122.max_profit.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="76.MinimumWindowSubstr.cpp">
+    <ClCompile Include="76.minimum_window_substr.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="tree.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="104.MaximumDepthOfBinaryTree.cpp">
+    <ClCompile Include="104.maximum_depth_of_binarytree.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="classListInitilization.cpp">
+    <ClCompile Include="class_list_initilization.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="binarySearch.cpp">
+    <ClCompile Include="binary_search.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
